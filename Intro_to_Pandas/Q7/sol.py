@@ -10,6 +10,7 @@ def dropMissingData(students: pd.DataFrame) -> pd.DataFrame:
     
     return result
 
+#also {students.dropna(subset=['name'])}
 
 data = {'student_id': [32, 217, 779, 849],
         'name': ['Piper', None, 'Georgia', 'Willow'],
