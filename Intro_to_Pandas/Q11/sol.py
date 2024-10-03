@@ -13,4 +13,5 @@ data = {
 products = pd.DataFrame(data)
 
 result = fillMissingValues(products)
+
 print(result)
