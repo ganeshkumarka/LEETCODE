@@ -15,6 +15,5 @@ df2 = pd.DataFrame({
     'age': [7, 7]
 })
 
-
 result = pd.concat([df1, df2], ignore_index=True)
 print(result)
