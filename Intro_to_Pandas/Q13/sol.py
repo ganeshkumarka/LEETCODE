@@ -20,4 +20,5 @@ weather = pd.DataFrame(data)
 result = weather.pivot(index='month', columns='city', values='temperature')
 
 result = result.reset_index()
+
 print(result)
