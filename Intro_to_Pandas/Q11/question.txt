@@ -31,4 +31,4 @@ Output:
 | Printer         | 849      | 3051  |
 +-----------------+----------+-------+
 Explanation: 
-The quantity for Wristwatch and WirelessEarbuds are filled by 0
+The quantity for Wristwatch and WirelessEarbuds are filled by 0.
