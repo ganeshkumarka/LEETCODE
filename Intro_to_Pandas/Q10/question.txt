@@ -32,4 +32,4 @@ Output:
 | 2          | Kate | 15  | 87    |
 +------------+------+-----+-------+
 Explanation: 
-The data types of the column grade is converted to int
+The data types of the column grade is converted to int.
