@@ -16,4 +16,5 @@ df2 = pd.DataFrame({
 })
 
 result = pd.concat([df1, df2], ignore_index=True)
+
 print(result)
